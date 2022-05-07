@@ -4,8 +4,12 @@ Piano is a wonderful instrument, and learning it is also wonderful.
 
 ## Oonchie Woodmansee
 
+![Image Title](https://lh3.googleusercontent.com/QnmNi61TLKhTws-dEIaXFEPioSMAkoGO7AYk6bWRtJROgDyUq5CcxD-LkcxVcxIce5VdELtwD6jkJZulIrNn8ZzrNVOjCOeuAmPRcB147Xx3J6OvNJfKyLyMdEDD732oMY_BJ8r2JQ97PTPcWbEajtt2Hq59X3AamH4q4kKX9Kx-x91g1fAtTYStjKMkuVvQfy0tnjCdmPpboERIBu5WyP2Y6yNAL2a4FZmmRi04zDwOxIeFCZggMIt5eMBgc3B4U2kici8Pp2rJKhMEsLc6r9rUSWgo-bJSNlr8zcYC7X9rqRe13wdpyYfho9wmO3Bso5rPOuQG9wXS5DmpPXut0dbb1e-zdDIAdSsokOjAopUQAiVmrEwzoVxlD0sMF9NKjANxhbVM4xdTgcphfDDFTxw3GmQQ9wWtrGXLfixDze3RrFgXO_e43rEjaBv-70GW4kU_OxNxFsM3N6v4Twx9etQdRChVV-JoR6W2SQLv2W4_OB82aoVbiinFr-lHqAKJqr2hee14Nxx3cVQxoHJaLkILi0oNsohyr9scLgTK_Ct1bz-pE2Ld588wrbj14SvKOaI5XmSWp-RDScxaiyPDo2tFx3m3-H7WgTUrrhgzX4MnnHBgNKExDNiNF3wx0VB_Ymz_jgR92oHC4DiDyHj9mELQd8CtaU8bojhc3UL4apxnuR19lKz9YZBjURuSIuXsjc9Ee_-1vNxqp4RDXafdWTqrjD347GUWKsg1reZ-9VpxUGJ8wPNEu6ZN2mJXvQTzIdQiNa7V_lNSrl5_NQGINCzOwrrnwoSmaDqVyTTOsjqwyb41rcQyRiZkbBn0iT_tnsX20d38m-iohtRbfREOxv_I-bR40SIBTP5im0vE8G9r-ROXEcJNwnAChkGkyLeBVrb-ep0oteKK2ybr-Got8uFjWFyAPKAygTBXiE_1qFGmW-xlMh2eeozoaZBh6o7mqUyjnbitgPthrIrpuZ7rh6zjgSD7gueAvHA9f2wLU2ojAMbBJ0m9mgGM5oQk-wErE3N6ukXSVqbhhY0ZEC41NmSEcQ=w1364-h767-no?authuser=5)
+
 Oonchie Woodmansee has been playing piano since age 10.
 
 ## Jeff Klemm
 
-Oonchie's piano teacher is [Jeff Klemm](http://www.jeffklemm.com "Jeff Klemm's Homepage") and he has been playing piano since age 10.
+![Jeff Klemm](https://images.squarespace-cdn.com/content/v1/5786c3f3b8a79bbc1f525d2b/faeb3427-a35e-4f82-8e0b-2f333c599de7/Jeff+Klemm+1+Phil+Masturzo%3AAkron+Beacon+Journal+1.jpg?format=1500w)
+
+Oonchie's piano teacher is [Jeff Klemm](http://www.jeffklemm.com/lessons "Jeff Klemm's Homepage") and he has been playing piano since age 10.
