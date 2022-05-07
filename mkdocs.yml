@@ -2,4 +2,15 @@ site_name: Oonchie Woodmansee Piano
 theme:
   name: material
   palette:
-    primary: red
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      toggle:
+        icon: material/lightbulb-outline 
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red 
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
