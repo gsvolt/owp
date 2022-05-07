@@ -1,3 +1,5 @@
 site_name: Oonchie Woodmansee Piano
 theme:
   name: material
+  palette:
+    primary: red
