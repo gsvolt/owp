@@ -18,4 +18,4 @@ Oonchie found his mother's old electronic keyboard from when she was in elementa
 
 ![Jeff Klemm](img/Jeff_Klemm.jpg)
 
-Oonchie's piano teacher is [Jeff Klemm](http://www.jeffklemm.com/lessons "Jeff Klemm's Homepage") and he has been playing piano since age 10.
+Oonchie's piano teacher is Mr. [Jeff Klemm](http://www.jeffklemm.com/lessons "Jeff Klemm's Homepage") who is a popular local musician from the Akron area who also has a Youtube children's show.
