@@ -12,7 +12,7 @@ Piano is a wonderful instrument, and learning it is also wonderful.
 
 ![Oonchie Woodmansee](img/20210113_143641.jpg)
 
-Oonchie Woodmansee has been playing piano since age 10.
+Oonchie found his mother's old electronic keyboard from when she was in elementary school, tried it out and realized he enjoyed playing it. He decided to take lessons and learn to play songs and also sing them. He practices diligently and his skills have progressed over the years. But most importantly, he thinks playing the piano is fun.
 
 ## Jeff Klemm
 
