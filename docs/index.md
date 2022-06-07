@@ -6,8 +6,6 @@ description: Home of Oonchie Woodmansee and his pursuits in playing the piano an
 
 # Oonchie Woodmansee Piano
 
-Piano is a wonderful instrument, and learning it is also wonderful.
-
 ## Oonchie Woodmansee
 
 ![Oonchie Woodmansee](img/20210113_143641.jpg)
