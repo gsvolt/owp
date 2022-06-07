@@ -1,10 +1,10 @@
 ---
 icon: material/emoticon-happy
-title: Oonchie Woodmansee Piano
+title: Oonchie Woodmansee 
 description: Home of Oonchie Woodmansee and his pursuits in playing the piano and documenting nature
 ---
 
-# Oonchie Woodmansee Piano
+# Oonchie Woodmansee
 
 ## Oonchie Woodmansee
 
