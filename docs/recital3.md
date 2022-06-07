@@ -4,6 +4,15 @@
 
 ## Featured Songs
 
-### Song1
+### I've Been Wishing
 
-### Song2
+### Hayride
+
+### Fanfare and Cannon
+
+### Three Short Pieces
+
+### Fermatas and Rainbows
+
+### Join the Fun
+

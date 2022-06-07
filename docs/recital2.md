@@ -5,6 +5,15 @@
 
 ## Featured Songs
 
-### Song1
+### Rockin' Tune
 
-### Song2
+### Raindrops
+
+### Hide and Seek
+
+### Horse Sense
+
+### Quiet River
+
+### Come to my House
+

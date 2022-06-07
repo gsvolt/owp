@@ -4,6 +4,8 @@
 
 ## Featured Songs
 
-### Song1
+### Trolley Song 
 
-### Song2
+### Minuet and Trio
+
+### Silent Night

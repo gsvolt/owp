@@ -4,6 +4,13 @@
 
 ## Featured Songs
 
-### Song1
+### Soaring
 
-### Song2
+### Cowboy Song
+
+### The Magic Man
+
+### Making Tea
+
+Making Tea is an original composition by Oonchie.
+
