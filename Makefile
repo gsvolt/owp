@@ -1,5 +1,5 @@
-init:
-	mkdocs new .
+#init:
+#	mkdocs new .
 
 build:
 	mkdocs build
