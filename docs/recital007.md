@@ -4,5 +4,9 @@
 
 ## Featured Songs
 
-### Across the Universe - Jim Sturgess Version 
+### Across the Universe
 
+- Artist: Jim Sturgess
+- Album: Across the Universe
+- [More info: Across the Universe Soundtrack](https://en.wikipedia.org/wiki/Across_the_Universe_(soundtrack))
+- [More info: Original Beatles Version](https://en.wikipedia.org/wiki/Across_the_Universe)

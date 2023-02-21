@@ -6,5 +6,9 @@
 
 ## Featured Songs
 
-### In My Life - Keith Moon Version
+### In My Life 
 
+- Artist: Keith Moon
+- Album: Two Sides of the Moon
+- [More info: Original Beatles version](https://en.wikipedia.org/wiki/In_My_Life)
+- [More info: Keith Moon version](https://en.wikipedia.org/wiki/Two_Sides_of_the_Moon)

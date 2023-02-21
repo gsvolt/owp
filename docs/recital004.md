@@ -10,7 +10,11 @@
 
 ### Camptown Races
 
+- [More info](https://en.wikipedia.org/wiki/Camptown_Races)
+
 ### For He's a Jolly Good Fellow
+
+- [More info](https://en.wikipedia.org/wiki/For_He%27s_a_Jolly_Good_Fellow)
 
 ### The Old Mill
 
