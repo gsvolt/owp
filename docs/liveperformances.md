@@ -11,4 +11,4 @@ Oonchie was dining at the historic [BLU-Tique Hotel](https://www.blu-tique.com/ 
 
 Oonchie just finished listening to a performance by Mr. Jeff Klemm at the [Jenks1929 Mercantile](https://jenks1929.com/ "Jenks1929 Mercantile") when the owners of the store asked him if he could play a short piece for their customers.
 
-<iframe width="359" height="639" src="../m/jenks_20221007_201500.mp4" title="Jenks Video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="354" height="629" src="https://www.youtube.com/embed/RxT39q2amh0" title="Jenks Live Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
