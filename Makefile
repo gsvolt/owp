@@ -4,5 +4,5 @@
 build:
 	mkdocs build
 
-serve:
+serve: build
 	mkdocs serve

@@ -1,5 +1,11 @@
 site_name: Oonchie Woodmansee
 theme:
+  features:
+    - navigation.top
+    - navigation.sections
+    - navigation.instant
+    - navigation.expand
+    - navigation.tracking
   name: material
   font:
     text: Roboto
