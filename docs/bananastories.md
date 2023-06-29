@@ -23,3 +23,8 @@
 ## Part 6
 
 <iframe width="354" height="629" src="https://www.youtube.com/embed/3DaJg6M6Qsg" title="The Banana Story - Part 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Part 7
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA8bbF-9MWQUuINzTd_WhyDePve8Wmpzz" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
