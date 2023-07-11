@@ -22,6 +22,10 @@ theme:
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
+plugins:
+    - glightbox:
+        loop: true
+        touchNavigation: true
 markdown_extensions:
   - meta
   - attr_list
