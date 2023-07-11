@@ -9,6 +9,15 @@
 ![](img/gfs/junior_youth_group_104_2464.jpg)
 ![](img/gfs/junior_youth_group_147_2464.jpg)
 
+![](img/gfs/junior_youth_group_001_2464.jpg)
+![](img/gfs/junior_youth_group_008_2464.jpg)
+![](img/gfs/junior_youth_group_009_2464.jpg)
+![](img/gfs/junior_youth_group_014_2464.jpg)
+![](img/gfs/junior_youth_group_055_2464.jpg)
+![](img/gfs/junior_youth_group_068_2464.jpg)
+![](img/gfs/junior_youth_group_075_2464.jpg)
+![](img/gfs/junior_youth_group_081_2464.2.jpg)
+
 #### Saturday
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KgbVxoEZt5g" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
