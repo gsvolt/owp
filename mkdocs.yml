@@ -33,6 +33,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-copyright: Copyright &copy; 2022-2023 Oonchie Woodmansee
+copyright: Copyright &copy; 2012-2023 Oonchie Woodmansee
 extra:
   generator: false
