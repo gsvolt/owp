@@ -26,5 +26,17 @@
 
 ## Part 7
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA8bbF-9MWQUuINzTd_WhyDePve8Wmpzz" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA8bbF-9MWQUuINzTd_WhyDePve8Wmpzz" title="The Banana Story - Part 7" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Part 8
+
+<iframe width="356" height="633" src="https://www.youtube.com/embed/LfuPqgWcEpw" title="The Banana Story - Part 9" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Part 9
+
+<iframe width="356" height="633" src="https://www.youtube.com/embed/Preq4LjBVHM" title="The Banana Story - Part 8" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Part 10
+
+<iframe width="951" height="545" src="https://www.youtube.com/embed/wE0XMfRZ3S0" title="The Banana Story - Part 10" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
