@@ -40,3 +40,20 @@
 
 <iframe width="951" height="545" src="https://www.youtube.com/embed/wE0XMfRZ3S0" title="The Banana Story - Part 10" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+## Part 11
+
+<iframe width="1425" height="592" src="https://www.youtube.com/embed/TNoa5mue8bM" title="The Banana Stories - Part 11" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Part 12
+
+<iframe width="356" height="633" src="https://www.youtube.com/embed/Bh9MecQKpRk" title="The Banana Story - Part 12" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Part 13
+
+<iframe width="356" height="633" src="https://www.youtube.com/embed/zcOayaEdyYs" title="The Banana Story - Part 13" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Part 14
+
+<iframe width="356" height="633" src="https://www.youtube.com/embed/sSV7W62rtlc" title="The Banana Story - Part 14" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
