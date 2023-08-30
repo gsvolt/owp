@@ -73,3 +73,10 @@
 
 <iframe width="356" height="633" src="https://www.youtube.com/embed/kc-oK46GXsA" title="The Banana Stories - Part 18" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Part 19
+
+<iframe width="356" height="633" src="https://www.youtube.com/embed/axUupsSVFlQ" title="The Banana Stories - Part 19" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
