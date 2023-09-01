@@ -15,6 +15,6 @@ Oonchie just finished listening to a performance by Mr. Jeff Klemm at the [Jenks
 
 ## DBA Akron
 
-Oonchie performing Blvd of Broken Dreams with Mr Jeff at DBA Akron 
+Oonchie performed Boulevard of Broken Dreams with Mr Jeff Klemm at DBA Akron on 8/31/2023
 
 <iframe width="1425" height="592" src="https://www.youtube.com/embed/NUFgd_suCrE" title="Oonchie performing Blvd of Broken Dreams with Mr Jeff at DBA Akron" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
