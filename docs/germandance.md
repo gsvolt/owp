@@ -2,6 +2,22 @@
 
 ## German Family Society
 
+### Liederkranz Mansfield Treffen 2023
+
+#### Saturday
+
+<iframe width="966" height="543" src="https://www.youtube.com/embed/VMUT3ZhahUg" title="1/5: Akron German Family Society Saturday Performance at Mansfield Treffen 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Sunday
+
+<iframe width="951" height="535" src="https://www.youtube.com/embed/3AO03-NiW9Y" title="2/5: Akron German Family Society Sunday Indoor Performance at Mansfield Treffen 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="951" height="535" src="https://www.youtube.com/embed/EzPxIem-SKM" title="3/5: Akron German Family Society Sunday Outdoor Performance at Mansfield Treffen 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="966" height="543" src="https://www.youtube.com/embed/dSPRKNSImdY" title="4/5: Akron German Family Society Band Dance at Mansfield Treffen 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="966" height="543" src="https://www.youtube.com/embed/xLX_SqhhHE8" title="5/5: Akron German Family Society Band Dance at Mansfield Treffen 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Old European Days 2023
 
 ![](img/gfs/junior_youth_group_005_2464.jpg)
