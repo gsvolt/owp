@@ -4,6 +4,15 @@
 
 ### Liederkranz Mansfield Treffen 2023
 
+![](img/gfs/kindergruppe_003_2464.jpg)
+![](img/gfs/kindergruppe_004_2464.jpg)
+![](img/gfs/kindergruppe_020_2464.jpg)
+![](img/gfs/kindergruppe_021_2464.jpg)
+![](img/gfs/kindergruppe_037_2464.jpg)
+![](img/gfs/kindergruppe_058_2464.jpg)
+![](img/gfs/kindergruppe_059_2464.jpg)
+![](img/gfs/kindergruppe_069_2464.jpg)
+
 #### Saturday
 
 <iframe width="966" height="543" src="https://www.youtube.com/embed/VMUT3ZhahUg" title="1/5: Akron German Family Society Saturday Performance at Mansfield Treffen 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
