@@ -81,3 +81,6 @@
 
 <iframe width="356" height="633" src="https://www.youtube.com/embed/668rQtFsvUE" title="The Banana Story - Part 20" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Part 21
+
+<iframe width="356" height="633" src="https://www.youtube.com/embed/f5VJnlE093Y" title="Banana Story - Part 21" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
