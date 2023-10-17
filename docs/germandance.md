@@ -2,6 +2,17 @@
 
 ## German Family Society
 
+### Lakeside Oktoberfest 2023
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/8waQaU4KGrU" title="German Family Society Jr Youth Group dance, Lakeside Oktoberfest 2023, New Franklin, Ohio - Part 1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/6mB643V0L_Y" title="German Family Society Jr Youth Group dance, Lakeside Oktoberfest 2023, New Franklin, Ohio - Part 2" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### German Day 2023
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/6j9uSzqKEts" title="Akron German Family Society German Day Jr Youth Group Dance 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ### Cuyahoga Falls Oktoberfest 2023
 
 <iframe width="951" height="535" src="https://www.youtube.com/embed/NMWkOrHzNU4" title="Akron German Family Society Jr Youth Group performs at Cuyahoga Falls Oktoberfest 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
