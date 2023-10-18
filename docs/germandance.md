@@ -57,7 +57,7 @@
 
 ### Photos
 
-#### Old European Days 2023
+#### Old European Days 2023 - Photos
 
 ![](img/gfs/junior_youth_group_005_2464.jpg)
 ![](img/gfs/junior_youth_group_081_2464.jpg)
@@ -74,7 +74,7 @@
 ![](img/gfs/junior_youth_group_081_2464.2.jpg)
 
 
-#### Liederkranz Mansfield Treffen 2023
+#### Liederkranz Mansfield Treffen 2023 - Photos
 
 ![](img/gfs/kindergruppe_003_2464.jpg)
 ![](img/gfs/kindergruppe_004_2464.jpg)
@@ -85,7 +85,7 @@
 ![](img/gfs/kindergruppe_059_2464.jpg)
 ![](img/gfs/kindergruppe_069_2464.jpg)
 
-#### German Day 2023
+#### German Day 2023 - Photos
 
 ![](img/gfs/2023/german_day/gfs_333_2464.jpg)
 ![](img/gfs/2023/german_day/gfs_322_2464.jpg)
@@ -123,6 +123,4 @@
 ![](img/gfs/2023/german_day/gfs_456_2464.jpg)
 ![](img/gfs/2023/german_day/gfs_457_2464.jpg)
 ![](img/gfs/2023/german_day/gfs_464_2464.jpg)
-
-
 
