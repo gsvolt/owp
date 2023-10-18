@@ -2,17 +2,62 @@
 
 ## German Family Society
 
-### Mothers Day 2023 
+### Videos
 
-#### Song
+#### Mothers Day 2023 
+
+##### Song
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UbuPogp0Twc" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Dance
+##### Dance
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/siMcmzWiWug" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Old European Days 2023
+#### Old European Days 2023
+
+##### Saturday
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KgbVxoEZt5g" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+##### Sunday
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D5OvqYiqRL0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Liederkranz Mansfield Treffen 2023
+
+##### Saturday
+
+<iframe width="966" height="543" src="https://www.youtube.com/embed/VMUT3ZhahUg" title="1/5: Akron German Family Society Saturday Performance at Mansfield Treffen 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+##### Sunday
+
+<iframe width="951" height="535" src="https://www.youtube.com/embed/3AO03-NiW9Y" title="2/5: Akron German Family Society Sunday Indoor Performance at Mansfield Treffen 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="951" height="535" src="https://www.youtube.com/embed/EzPxIem-SKM" title="3/5: Akron German Family Society Sunday Outdoor Performance at Mansfield Treffen 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="966" height="543" src="https://www.youtube.com/embed/dSPRKNSImdY" title="4/5: Akron German Family Society Band Dance at Mansfield Treffen 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="966" height="543" src="https://www.youtube.com/embed/xLX_SqhhHE8" title="5/5: Akron German Family Society Band Dance at Mansfield Treffen 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+#### Cuyahoga Falls Oktoberfest 2023
+
+<iframe width="951" height="535" src="https://www.youtube.com/embed/NMWkOrHzNU4" title="Akron German Family Society Jr Youth Group performs at Cuyahoga Falls Oktoberfest 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### German Day 2023
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/6j9uSzqKEts" title="Akron German Family Society German Day Jr Youth Group Dance 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Lakeside Oktoberfest 2023
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/8waQaU4KGrU" title="German Family Society Jr Youth Group dance, Lakeside Oktoberfest 2023, New Franklin, Ohio - Part 1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/6mB643V0L_Y" title="German Family Society Jr Youth Group dance, Lakeside Oktoberfest 2023, New Franklin, Ohio - Part 2" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Photos
+
+#### Old European Days 2023
 
 ![](img/gfs/junior_youth_group_005_2464.jpg)
 ![](img/gfs/junior_youth_group_081_2464.jpg)
@@ -28,15 +73,8 @@
 ![](img/gfs/junior_youth_group_075_2464.jpg)
 ![](img/gfs/junior_youth_group_081_2464.2.jpg)
 
-#### Saturday
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KgbVxoEZt5g" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-#### Sunday
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D5OvqYiqRL0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-### Liederkranz Mansfield Treffen 2023
+#### Liederkranz Mansfield Treffen 2023
 
 ![](img/gfs/kindergruppe_003_2464.jpg)
 ![](img/gfs/kindergruppe_004_2464.jpg)
@@ -47,26 +85,7 @@
 ![](img/gfs/kindergruppe_059_2464.jpg)
 ![](img/gfs/kindergruppe_069_2464.jpg)
 
-#### Saturday
-
-<iframe width="966" height="543" src="https://www.youtube.com/embed/VMUT3ZhahUg" title="1/5: Akron German Family Society Saturday Performance at Mansfield Treffen 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-#### Sunday
-
-<iframe width="951" height="535" src="https://www.youtube.com/embed/3AO03-NiW9Y" title="2/5: Akron German Family Society Sunday Indoor Performance at Mansfield Treffen 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="951" height="535" src="https://www.youtube.com/embed/EzPxIem-SKM" title="3/5: Akron German Family Society Sunday Outdoor Performance at Mansfield Treffen 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="966" height="543" src="https://www.youtube.com/embed/dSPRKNSImdY" title="4/5: Akron German Family Society Band Dance at Mansfield Treffen 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="966" height="543" src="https://www.youtube.com/embed/xLX_SqhhHE8" title="5/5: Akron German Family Society Band Dance at Mansfield Treffen 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-### Cuyahoga Falls Oktoberfest 2023
-
-<iframe width="951" height="535" src="https://www.youtube.com/embed/NMWkOrHzNU4" title="Akron German Family Society Jr Youth Group performs at Cuyahoga Falls Oktoberfest 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-### German Day 2023
+#### German Day 2023
 
 ![](img/gfs/2023/german_day/gfs_333_2464.jpg)
 ![](img/gfs/2023/german_day/gfs_322_2464.jpg)
@@ -105,11 +124,5 @@
 ![](img/gfs/2023/german_day/gfs_457_2464.jpg)
 ![](img/gfs/2023/german_day/gfs_464_2464.jpg)
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/6j9uSzqKEts" title="Akron German Family Society German Day Jr Youth Group Dance 2023" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Lakeside Oktoberfest 2023
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/8waQaU4KGrU" title="German Family Society Jr Youth Group dance, Lakeside Oktoberfest 2023, New Franklin, Ohio - Part 1" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/6mB643V0L_Y" title="German Family Society Jr Youth Group dance, Lakeside Oktoberfest 2023, New Franklin, Ohio - Part 2" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
