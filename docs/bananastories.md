@@ -89,3 +89,15 @@
 
 <iframe width="356" height="633" src="https://www.youtube.com/embed/CgDX6i5KP7I" title="The Banana Stories - Part 22" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Part 23
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/539TCyyCk6E" title="The Banana Stories - Part 23" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Part 24
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/RUos031OVBM" title="The Banana Stories - Part 24" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Part 25
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/op8RNGMeG28" title="The Banana Stories - Part 25" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
