@@ -104,3 +104,16 @@
 ## Part 26
 
 <iframe width="1280" height="735" src="https://www.youtube.com/embed/2O5bKfyuWss" title="The Banana Stories - Part 26" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Part 27
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/O44X0FbgYe4" title="The Banana Stories - Part 27" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Part 28
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/d3HmsXITLWk" title="The Banana Stories - Part 28" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Part 29
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/BV94DWp4xsw" title="The Banana Stories - Part 29" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
