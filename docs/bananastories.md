@@ -101,3 +101,6 @@
 
 <iframe width="463" height="823" src="https://www.youtube.com/embed/op8RNGMeG28" title="The Banana Stories - Part 25" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Part 26
+
+<iframe width="1280" height="735" src="https://www.youtube.com/embed/2O5bKfyuWss" title="The Banana Stories - Part 26" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
