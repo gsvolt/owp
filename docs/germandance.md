@@ -55,6 +55,11 @@
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/6mB643V0L_Y" title="German Family Society Jr Youth Group dance, Lakeside Oktoberfest 2023, New Franklin, Ohio - Part 2" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+#### Weinachts 2023
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NcJtss_GRj8" title="Akron German Family Society Jr Youth Group Weinachts 2023 Performance" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ### Photos
 
 #### Old European Days 2023 - Photos
