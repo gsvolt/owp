@@ -55,7 +55,7 @@
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/6mB643V0L_Y" title="German Family Society Jr Youth Group dance, Lakeside Oktoberfest 2023, New Franklin, Ohio - Part 2" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Weinachts 2023
+#### Weinacht 2023
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NcJtss_GRj8" title="Akron German Family Society Jr Youth Group Weinachts 2023 Performance" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -129,3 +129,30 @@
 ![](img/gfs/2023/german_day/gfs_457_2464.jpg)
 ![](img/gfs/2023/german_day/gfs_464_2464.jpg)
 
+#### Weinacht 2023 - Photos
+
+![](img/gfs/2023/weinacht/gfs_247_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_248_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_249_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_251_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_252_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_254_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_255_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_265_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_266_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_267_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_268_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_269_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_287_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_291_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_294_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_295_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_296_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_297_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_306_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_319_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_320_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_333_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_334_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_335_2464.jpg)
+![](img/gfs/2023/weinacht/gfs_336_2464.jpg)
