@@ -4,7 +4,7 @@
 
 ## Featured Songs
 
-### Kids Are Alright
+### The Kids Are Alright
 
 - Artist: The Who
 - Songwriter: Pete Townshend
