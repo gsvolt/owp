@@ -4,6 +4,16 @@
 
 ### Videos
 
+#### Old European Days 2024
+
+##### Sunday
+
+<iframe width="1022" height="575" src="https://www.youtube.com/embed/J_UvZKfYHp8" title="GFS Jr Youth Group Dance at Old European Fest 20240623" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##### Saturday
+
+<iframe width="1022" height="575" src="https://www.youtube.com/embed/_g38okaJjdY" title="GFS Jr Youth Group Dance at Old European Fest 20240622" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### Mothers Day 2023 
 
 ##### Song
