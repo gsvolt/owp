@@ -159,3 +159,8 @@
 ## Part 40
 
 <iframe width="463" height="823" src="https://www.youtube.com/embed/StZMb0R7qHU" title="The Banana Stories - Part 40" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Part 41
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/gYsb4wxuEpo" title="The Banana Stories - Part 41: Banana Food Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
