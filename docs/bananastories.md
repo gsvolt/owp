@@ -162,5 +162,56 @@
 
 ## Part 41
 
-<iframe width="463" height="823" src="https://www.youtube.com/embed/gYsb4wxuEpo" title="The Banana Stories - Part 41: Banana Food Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="463" height="823" src="https://www.youtube.com/embed/gYsb4wxuEpo" title="The Banana Stories - Part 41: Banana Food Review" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Part 42
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/qtOQLYbzCgk" title="The Banana Stories - Part 42" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Part 43
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/r7jkQWoJp5I" title="The Banana Stories - Part 43" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Part 44
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/5-nsHLDvC7o" title="The Banana Stories - Part 44" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Part 45
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/3hBOQ_ASsOk" title="The Banana Stories - Part 45" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Part 46
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/loAlADKKClY" title="The Banana Stories - Part 46" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Part 47
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/0IZCd-dbJuw" title="The Banana Stories - Part 47" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Part 48
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/BkKEB0S3S78" title="The Banana Stories - Part 48" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Part 49
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/xf1rPgaDxcc" title="The Banana Stories - Part 49" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Part 50
+
+<iframe width="1497" height="622" src="https://www.youtube.com/embed/n4h7ivDX0xM" title="The Banana Stories - Part 50" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Part 51
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/yZVgylbnimg" title="The Banana Stories - Part 51" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Part 52
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/UaiK2_HBL-s" title="The Banana Stories - Part 52" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Part 53
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/WMAzt67Ha3Y" title="The Banana Stories - Part 53" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Part 54
+
+<iframe width="463" height="823" src="https://www.youtube.com/embed/5w8xnXFuy1M" title="The Banana Stories - Part 54" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
